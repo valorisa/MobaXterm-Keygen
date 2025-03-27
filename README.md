@@ -18,9 +18,9 @@ Usage:
 EXAMPLE:
 
 ```
-PS C:\Users\DoubleSine\Github\MobaXterm-Keygen> .\MobaXterm-Keygen.py "DoubleSine" 10.9
+PS C:\Users\UserName\Github\MobaXterm-Keygen>python3 .\MobaXterm-Keygen.py "UserName" 25.0
 [*] Success!
-[*] File generated: C:\Users\DoubleSine\Github\MobaXterm-Keygen\Custom.mxtpro
+[*] File generated: C:\Users\UserName\Github\MobaXterm-Keygen\Custom.mxtpro
 [*] Please move or copy the newly-generated file to MobaXterm's installation path.
 ```
 
