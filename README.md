@@ -12,20 +12,13 @@ Usage:
 
     <UserName>:      The Name licensed to
     <Version>:       The Version of MobaXterm
-                     Example:    10.9
+                     Example:    25.1
 ```
 
 EXAMPLE:
 
 ```powershell
 PS C:\Users\UserName\Github\MobaXterm-Keygen>python3 .\MobaXterm-Keygen.py "UserName" 25.1
-```
-
-```powershell
-PS C:\Users\DoubleSine\Github\MobaXterm-Keygen>python3 .\MobaXterm-Keygen.py "valorisa" 25.1
-```
-
-```bash
 [*] Success!
 [*] File generated: C:\Users\UserName\Github\MobaXterm-Keygen\Custom.mxtpro
 [*] Please move or copy the newly-generated file to MobaXterm's installation path.
