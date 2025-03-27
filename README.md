@@ -28,7 +28,7 @@ Then copy `Custom.mxtpro` to `C:\Program Files (x86)\Mobatek\MobaXterm`.
 
 ## Screenshot
 
-![](pic0.png)
+![](https://github.com/user-attachments/assets/914b1b0e-90d5-443b-8e72-afc4427b9038)
 
 ## Postscript
 
