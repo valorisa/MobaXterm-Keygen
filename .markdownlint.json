@@ -1,0 +1,11 @@
+{
+    "MD013": {
+        "line_length": 80,
+        "ignore_code_blocks": true,
+        "ignore_html": true,
+        "ignore_links": true
+    },
+    "MD029": {
+        "style": "ordered"
+    }
+}
