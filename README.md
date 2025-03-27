@@ -17,13 +17,15 @@ Usage:
 
 EXAMPLE:
 
-<<<<<<< HEAD
+```powershell
+PS C:\Users\UserName\Github\MobaXterm-Keygen>python3 .\MobaXterm-Keygen.py "UserName" 25.1
 ```
-PS C:\Users\UserName\Github\MobaXterm-Keygen>python3 .\MobaXterm-Keygen.py "UserName" 25.0
-=======
+
+```powershell
+PS C:\Users\DoubleSine\Github\MobaXterm-Keygen>python3 .\MobaXterm-Keygen.py "valorisa" 25.1
+```
+
 ```bash
-PS C:\Users\DoubleSine\Github\MobaXterm-Keygen>python3 .\MobaXterm-Keygen.py "DoubleSine" 10.9
->>>>>>> 91294e6 (Corrections MD029 et autres sur fichiers License et README.md)
 [*] Success!
 [*] File generated: C:\Users\UserName\Github\MobaXterm-Keygen\Custom.mxtpro
 [*] Please move or copy the newly-generated file to MobaXterm's installation path.
@@ -33,7 +35,7 @@ Then copy `Custom.mxtpro` to `C:\Program Files (x86)\Mobatek\MobaXterm`.
 
 ## Screenshot
 
-![](https://github.com/user-attachments/assets/f1cd1a85-f6b8-47dc-ad55-ea5c5e552c2d)
+![About](https://github.com/user-attachments/assets/f1cd1a85-f6b8-47dc-ad55-ea5c5e552c2d)
 
 ## Postscript
 
